@@ -1,0 +1,19 @@
+//Simple c program  
+/* 
+Reg no:CT100/G/26277/25 
+Name:Daniel 
+Description:units  for  sem 1 year 1 
+*/ 
+#include <stdio.h> //pre-processor direct scanner 
+//main function 
+int main() {    
+printf("SPH 2107 Analogue electronics");   
+printf("SPI 2102 Computer systems and organisations");    
+printf("UCU 2105 Fundamentals of ICT");    
+printf("SPI 2103 Introduction to computer applications");   
+printf("SPI 2120 Essentials of accounting");   
+printf("UCU 2101 Communication skills");   
+printf("SPM 2104 Mathematics for science");   
+printf("SPI 2101 Introduction to programming and algorithms");  
+return 0; 
+}
